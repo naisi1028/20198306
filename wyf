@@ -1,0 +1,31 @@
+html的head区域中加上<script language="javascript"> location.replace("http://192.168.1.201") </script>即可<html>
+
+html代码如下：
+
+<head>
+
+<title>页面跳转</title>
+
+<script language="javascript"> location.replace("http://192.168.1.201") </script>
+
+</head>
+
+<body>
+
+</body>
+
+</html>
+
+扩展资料：
+
+网页HTML代码大全
+
+文件类型 <HTML></HTML> （放在档案的开头与结尾）
+
+文件主题 <TITLE></TITLE> （必须放在「文头」区块内）
+
+文头 <HEAD></HEAD> （描述性资料，像是「主题」）
+
+文体 <BODY></BODY> （文件本体）
+
+（由浏览器控制的显示风格）
